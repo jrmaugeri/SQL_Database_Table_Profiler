@@ -1,0 +1,6 @@
+pyodbc>=4.0.35
+oracledb>=1.2.0
+pandas>=1.3.0
+openpyxl>=3.1.5
+numpy>=1.20.0
+pyscopg[binary]>=3.3.3
